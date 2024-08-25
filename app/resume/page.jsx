@@ -147,10 +147,11 @@ className="min-[80vh] flex items-center justify-center py-12 xl:py-0"
     <Tabs defaultValue="About me" 
     className="flex flex-col xl:flex-row gap-[60px]">
       <TabsList className="flex flex-col w-full max-w-[380px] mx-auto xl:mx-0 gap-10">
+      <TabsTrigger value="about">About me</TabsTrigger>
         <TabsTrigger value="education">Education</TabsTrigger>
         <TabsTrigger value="skills">Skills</TabsTrigger>
         <TabsTrigger value="work">Work</TabsTrigger>
-        <TabsTrigger value="about">About me</TabsTrigger>
+        
       </TabsList>
       {/*content*/}
       <div className="min-h-[70vh] w-full">

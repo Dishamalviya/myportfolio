@@ -20,7 +20,7 @@ const Photo = () => {
     }}
       className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten
       absolute">
-        <Image src="/assets/photo_2024-06-29_05-57-07.png" 
+        <Image src="/assets/photo_2024-08-25_01-36-48.jpg" 
         priority 
         quality={100}
          fill

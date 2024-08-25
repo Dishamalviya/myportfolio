@@ -23,7 +23,7 @@ const Projects = [
       ],
       image: '/assets/work/thumb1.png',
       live: "",
-      github:"",
+      github:"https://github.com/Dishamalviya/pro-play",
     },
     {
       num: '02',
@@ -35,7 +35,7 @@ const Projects = [
       ],
     image: "/assets/work/dd.png",
     live: "",
-    github:"",
+    github:"https://github.com/Dishamalviya",
     },
     {
       num: '03',
@@ -46,7 +46,7 @@ const Projects = [
   ],
     image:"/assets/work/pf.png",
     live: "",
-    github:"",
+    github:"https://github.com/Dishamalviya/myportfolio",
     }
 ]
 const work = () => {
